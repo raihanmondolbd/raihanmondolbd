@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Md Raihan Mondol 👋 <br><br>I am a **B.Sc. Engineer in Computer Science and Engineering (C.S.E.)** passionate about Software Quality Assurance (QA), Test Automation, and Frontend Web Development. I enjoy writing clean code, building automation frameworks, and ensuring software reliability.<br>
+# Hi there, I'm Md Raihan Mondol 👋 <br><br>I am a **B.Sc. Engineer in Computer Science and Engineering (C.S.E.)** passionate about Software Quality Assurance (QA), Test Automation, and Backend Web Development. I enjoy writing clean code, building automation frameworks, and ensuring software reliability.<br>
 
 
 ## 🌐 Socials:
@@ -16,6 +16,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=raihanmondolbd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=raihanmondolbd&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
